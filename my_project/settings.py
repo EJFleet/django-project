@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-%u1pvc$m1j3ivskf1i^_w5ak-8=-_k-8dbjn^b&2q@7t)jb&ml
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-ejfleet-djangoproject-pqate1xulf2.ws-eu116.gitpod.io', 
-                '.herokuapp.com', 'localhost' ]
+                '.herokuapp.com', 'localhost', '.codeinstitute-ide.net' ]
 
 
 # Application definition
